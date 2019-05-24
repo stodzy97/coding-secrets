@@ -1,2 +1,2 @@
 # Coding-History
-history of the software and hardware progamming used throughout univerisity
+history of the software and hardware progamming used throughout univerisity, covering topics relating to the development of software in C and assembly language for Embedded Systems & Embedded Systems hardware (timers, interrupts, serial peripheral interfaces and analogue-to-digital converters) and the development of library software. Lastly, developing and testing a neural network. 
